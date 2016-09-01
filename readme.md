@@ -1,6 +1,6 @@
 # knowledge
 
-> 💡 document everything
+> 💡 Document everything
 
 This is where I'll put interesting stuff I learn that I want to remember and access later.
 
