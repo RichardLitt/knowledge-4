@@ -10,4 +10,4 @@ This is where I'll put interesting stuff I learn that I want to remember and acc
 
 ## License
 
-MIT © [Juan Soto](http://juansoto.me)
+MIT © [Juan Soto](https://juansoto.me)
